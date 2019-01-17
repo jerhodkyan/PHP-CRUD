@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
        <style>
@@ -39,7 +38,7 @@
             <th>Action</th>
         </thead>
         <tbody>
-
+            <?php require('retrieve.php');?>
         </tbody>
     </table>
 </body>
